@@ -1,0 +1,5 @@
+C:/Users/akram/GAMES_UNITY/Darts/.utmp/RelWithDebInfo/5p2f425l/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/akram/GAMES_UNITY/Darts/.utmp/RelWithDebInfo/5p2f425l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/akram/GAMES_UNITY/Darts/.utmp/RelWithDebInfo/5p2f425l/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/akram/GAMES_UNITY/Darts/.utmp/RelWithDebInfo/5p2f425l/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/akram/GAMES_UNITY/Darts/.utmp/RelWithDebInfo/5p2f425l/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
